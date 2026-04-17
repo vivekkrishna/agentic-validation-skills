@@ -1,6 +1,6 @@
 # Agentic Validation Skills
 
-> Guidelines and skills for agentic AI test automation, based on the [CIGE standard](https://medium.com/@vivek-k-c/cige-an-agentic-ai-test-case-standard-proposed-66d2cdca766f) — a structured test case format designed for self-healing, goal-driven AI agents.
+> Guidelines and skills for agentic AI test automation, based on the [CIGE standard](https://medium.com/@vivek-k-c/cige-an-agentic-ai-test-case-standard-proposed-66d2cdca766f) — a structured test case format designed for self-healing, validation-driven agentic test automation.
 
 A `CLAUDE.md` file and Claude Code skill that improve how AI agents author, execute, and recover from agentic test cases.
 
